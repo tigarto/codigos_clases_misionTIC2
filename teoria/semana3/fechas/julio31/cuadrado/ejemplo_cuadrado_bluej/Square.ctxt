@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\r\n\ @author\ Usuario\r\n
+comment1.params=
+comment1.target=Square()
+comment1.text=Constructores
+comment2.params=side
+comment2.target=Square(double)
+comment3.params=c
+comment3.target=Square(Square)
+comment4.params=
+comment4.target=double\ getSide()
+comment4.text=\r\n\ @return\ the\ side\r\n
+comment5.params=side
+comment5.target=void\ setSide(double)
+comment5.text=\r\n\ @param\ side\ the\ side\ to\ set\r\n
+comment6.params=
+comment6.target=double\ perimeter()
+comment7.params=
+comment7.target=double\ area()
+numComments=8

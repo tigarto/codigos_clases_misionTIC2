@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FinalExam2
+comment0.text=\r\n\ \ \ This\ class\ determines\ the\ grade\ for\ a\ final\ exam.\r\n
+comment1.params=questions\ missed
+comment1.target=FinalExam2(int,\ int)
+comment1.text=\r\n\ \ \ \ \ \ The\ constructor\ sets\ the\ number\ of\ questions\ on\ the\r\n\ \ \ \ \ \ exam\ and\ the\ number\ of\ questions\ missed.\r\n\ \ \ \ \ \ @param\ questions\ The\ number\ of\ questions.\r\n\ \ \ \ \ \ @param\ missed\ The\ number\ of\ questions\ missed.\r\n
+comment2.params=
+comment2.target=double\ getPointsEach()
+comment2.text=\r\n\ \ \ \ \ \ The\ getPointsEach\ method\ returns\ the\ number\ of\r\n\ \ \ \ \ \ points\ each\ question\ is\ worth.\r\n\ \ \ \ \ \ @return\ The\ value\ in\ the\ pointsEach\ field.\r\n
+comment3.params=
+comment3.target=int\ getNumMissed()
+comment3.text=\r\n\ \ \ \ \ \ The\ getNumMissed\ method\ returns\ the\ number\ of\ \r\n\ \ \ \ \ \ questions\ missed.\r\n\ \ \ \ \ \ @return\ The\ value\ in\ the\ numMissed\ field.\r\n
+comment4.params=
+comment4.target=void\ adjustScore()
+comment4.text=\r\n\ \ \ \ \ \ The\ adjustScore\ method\ adjusts\ a\ numeric\ score.\r\n\ \ \ \ \ \ If\ score\ is\ within\ 0.5\ points\ of\ the\ next\ whole\r\n\ \ \ \ \ \ number,\ it\ rounds\ the\ score\ up.\r\n
+numComments=5

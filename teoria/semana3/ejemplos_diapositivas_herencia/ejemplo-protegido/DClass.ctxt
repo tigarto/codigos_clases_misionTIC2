@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DClass
+comment1.params=
+comment1.target=DClass()
+comment2.params=ch\ v\ a
+comment2.target=DClass(char,\ double,\ int)
+comment3.params=ch\ v\ a
+comment3.target=void\ setDatos(char,\ double,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

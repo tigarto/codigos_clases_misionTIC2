@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BClass
+comment1.params=
+comment1.target=BClass()
+comment2.params=ch\ u
+comment2.target=BClass(char,\ double)
+comment3.params=u
+comment3.target=void\ setDatos(double)
+comment4.params=ch\ u
+comment4.target=void\ setDatos(char,\ double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

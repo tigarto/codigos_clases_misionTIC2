@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Caja
+comment1.params=
+comment1.target=Caja()
+comment2.params=longitud\ ancho\ altura
+comment2.target=Caja(double,\ double,\ double)
+comment3.params=longitud\ ancho\ altura
+comment3.target=void\ setDimension(double,\ double,\ double)
+comment4.params=
+comment4.target=double\ getAltura()
+comment5.params=
+comment5.target=double\ perimetro()
+comment6.params=
+comment6.target=double\ area()
+comment7.params=
+comment7.target=double\ volumen()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

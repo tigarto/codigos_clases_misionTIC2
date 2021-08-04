@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cube
+comment0.text=\r\n\r\n\ @author\ Usuario\r\n
+comment1.params=
+comment1.target=Cube()
+comment1.text=Constructores
+comment2.params=side
+comment2.target=Cube(double)
+comment3.params=c
+comment3.target=Cube(Cube)
+comment4.params=
+comment4.target=double\ perimeter()
+comment5.params=
+comment5.target=double\ area()
+comment6.params=
+comment6.target=double\ volume()
+numComments=7
