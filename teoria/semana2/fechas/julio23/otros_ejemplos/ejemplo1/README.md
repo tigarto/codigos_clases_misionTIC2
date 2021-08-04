@@ -2,8 +2,6 @@
 
 * **Fecha**: 23/07/2021
 
-
-
 ## Código ##
 
 Codigo que modela un rectangulo

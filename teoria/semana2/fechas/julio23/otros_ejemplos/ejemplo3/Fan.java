@@ -1,5 +1,3 @@
-package ejemplo3;
-
 public class Fan {
 
     // instance variables - replace the example below with your own
