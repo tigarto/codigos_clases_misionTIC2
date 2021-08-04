@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=
+comment1.target=Punto()
+comment10.params=p
+comment10.target=double\ calculateDistance(Punto)
+comment2.params=xp\ yp
+comment2.target=Punto(double,\ double)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=xp
+comment4.target=void\ setX(double)
+comment5.params=
+comment5.target=double\ getY()
+comment6.params=yp
+comment6.target=void\ setY(double)
+comment7.params=xp\ yp
+comment7.target=void\ setXY(double,\ double)
+comment8.params=
+comment8.target=void\ printCoords()
+comment9.params=xp\ yp
+comment9.target=double\ calculateDistance(double,\ double)
+numComments=11
